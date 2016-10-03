@@ -37,7 +37,7 @@ public class teleport_arrow : MonoBehaviour {
 		if (collision.gameObject.tag == "plateform") 
 		{
 			Player.transform.position = gameObject.transform.position;
-
+			Player.transform.rotation = collision.gameObject.transform.rotation;
 
 			Destroy (gameObject);
 		}
