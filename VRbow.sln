@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{D10DC22F-B02B-8438-D3C6-0280D1185E99}") = "VRbow", "Assembly-CSharp.csproj", "{D67ECC68-D9C6-DFE5-A1B8-04F97356E30E}"
+EndProject
+Project("{D10DC22F-B02B-8438-D3C6-0280D1185E99}") = "VRbow", "Assembly-CSharp-Editor.csproj", "{BE652F05-086E-3B1F-4F0D-23E5E45C0F5D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D67ECC68-D9C6-DFE5-A1B8-04F97356E30E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D67ECC68-D9C6-DFE5-A1B8-04F97356E30E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D67ECC68-D9C6-DFE5-A1B8-04F97356E30E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D67ECC68-D9C6-DFE5-A1B8-04F97356E30E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE652F05-086E-3B1F-4F0D-23E5E45C0F5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE652F05-086E-3B1F-4F0D-23E5E45C0F5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE652F05-086E-3B1F-4F0D-23E5E45C0F5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE652F05-086E-3B1F-4F0D-23E5E45C0F5D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
